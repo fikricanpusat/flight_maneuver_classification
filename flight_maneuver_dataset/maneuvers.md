@@ -1,0 +1,10 @@
+0:  Level Flight,
+1:  Sustained Turn,
+2:  Ascend,
+3:  Descend,
+4:  Reverse,
+5:  Immelman,
+6:  Aileron Roll,
+7:  Split S,
+8:  Chandelle,
+9:  Lazy-8
